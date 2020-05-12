@@ -15,3 +15,6 @@ const App: React.FC = () => (
 );
 
 export default App;
+
+// starts json server
+// yarn json-server server.json -p 3333
